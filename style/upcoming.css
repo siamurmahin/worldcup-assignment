@@ -1,0 +1,35 @@
+.flags img{
+    width: 100%;
+}
+.flags{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+.blog-info{
+    text-align: center;
+}
+.flags span{
+    margin: 0 10px
+}
+.filter-button a:nth-child(odd){
+    text-decoration: none;
+    color:black;
+    padding: 15px 25px;
+    display:block;
+    background-color: white;
+    border-radius:5px ;
+    font-size: 20px;
+    margin: 20px 10px;
+    text-align: center;
+
+}
+
+.filter-button a:nth-child(1){
+    background-color: #DD0000;
+    color: white;
+}
+
+
+
